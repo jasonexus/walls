@@ -1,0 +1,95 @@
+{
+	"wallpapers":
+	[
+		{
+			"name": "London",
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg"
+		},
+		{
+			"name": "Mist",
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+			"dimensions": "3200x2560"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+			"name": "Mood",
+			"dimensions": "1280x720",
+			"copyright": "Credits to its creator"
+		},
+		{
+			"name": "Berry",
+			"author": "wallsplash",
+			"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+			"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+			"dimensions": "3200x2560",
+			"copyright": "Free (do whatever you want)"
+		},
+		{
+			"name": "Snow",
+			"author": "wallsplash",
+			"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+			"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+			"dimensions": "3200x2560",
+			"copyright": "Free (do whatever you want)"
+		},
+		{
+			"name": "Sky",
+			"author": "wallsplash",
+			"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+			"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
+			"dimensions": "3200x2560",
+			"copyright": "Free (do whatever you want)"
+		},
+		{
+			"name": "Day",
+			"author": "wallsplash",
+			"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+			"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+			"dimensions": "3200x2560",
+			"copyright": "Free (do whatever you want)"
+		},
+		{
+			"name": "Range",
+			"author": "wallsplash",
+			"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+			"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+			"dimensions": "3200x2560",
+			"copyright": "Free (do whatever you want)"
+		},
+		{
+			"name": "Woods",
+			"author": "wallsplash",
+			"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
+			"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
+			"dimensions": "3200x2560",
+			"copyright": "Free (do whatever you want)"
+		},
+		{
+			"name": "View",
+			"author": "wallsplash",
+			"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+			"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
+			"dimensions": "3200x2560",
+			"copyright": "Free (do whatever you want)"
+		},
+		{
+			"name": "Perspective",
+			"author": "wallsplash",
+			"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+			"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
+			"dimensions": "3200x2560",
+			"copyright": "Free (do whatever you want)"
+		}
+		{
+			"name": "Shell",
+			"author": "Someone",
+			"url": "http://i.imgur.com/I9UE26u.jpg",
+			"thumbnail": "http://i.imgur.com/I9UE26um.jpg",
+			"dimensions": "5471 x 3000",
+			"copyright": "Free (do whatever you want)"
+		}
+	]
+}
